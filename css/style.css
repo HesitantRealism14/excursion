@@ -15,6 +15,7 @@ h1 {
     color: aquamarine;
     font-size: 16px;
     font-style: inherit;
+    text-decoration-line: underline;
 }
 
 h2 {
