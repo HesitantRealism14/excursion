@@ -1,2 +1,2 @@
 # excursion
-# HTML/CSS/Javascript exercise project
+HTML/CSS/Javascript practice project
